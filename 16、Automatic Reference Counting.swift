@@ -1,12 +1,3 @@
-//
-//  main.swift
-//  16、Automatic Reference Counting
-//
-//  Created by lsscl on 15-1-20.
-//  Copyright (c) 2015年 roger. All rights reserved.
-//
-
-import Foundation
 //MARK:1. ARC in Action
 class Person {
     let name: String
