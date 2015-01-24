@@ -1,4 +1,4 @@
-//TODO:1. Stored Properties
+//TODO:1. Stored Properties 
 struct FixedLengthRange {
     var firstValue:Int
     let length:Int
