@@ -1,4 +1,4 @@
-//TODO:1. Instnce Methods
+//TODO:1. Instnce Methods 
 class Counter {
     var count = 0
     func increment(){
