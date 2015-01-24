@@ -4,7 +4,6 @@ let someString = "some string literal value"
 //MARK: 2. Initializing an Empty String
 var emptyString = ""
 var anotherEmptyString = String()
-
 if emptyString.isEmpty {
     println("Nothing to see here")
 }
