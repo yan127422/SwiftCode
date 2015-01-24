@@ -1,4 +1,4 @@
-//TODO:1. Subscript Syntax
+//TODO:1. Subscript Syntax 
 struct TimesTable {
     let multiplier: Int
     subscript(index: Int) ->Int{//read-only
