@@ -1,4 +1,4 @@
-//TODO:1. Defining a Base Class
+//TODO:1. Defining a Base Class 
 class Vehicle {
     var currentSpeed = 0.0
     var description:String {
