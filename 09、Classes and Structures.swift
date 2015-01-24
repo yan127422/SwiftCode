@@ -1,4 +1,4 @@
-//TODO:1.Comparing Classes and Strucures
+//TODO:1.Comparing Classes and Strucures 
 //MARK:1. Definition Syntax
 struct Resolution{
     var width = 0
