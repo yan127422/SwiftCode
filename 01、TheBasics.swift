@@ -1,7 +1,3 @@
-// Playground - noun: a place where people can play
-
-import Cocoa
-
 var str = "Hello, playground"
 //MARK: 1、Constants and Variables
 let maximumNumberofLoginAttempts = 10
