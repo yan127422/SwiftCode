@@ -1,4 +1,4 @@
-//TODO:1. How Deinitialization Works
+//TODO:1. How Deinitialization Works 
 //TODO:2. Deinitializers in Action
 import Foundation
 struct Bank {
