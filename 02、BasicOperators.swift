@@ -1,6 +1,3 @@
-// Playground - noun: a place where people can play
-
-import Cocoa
 //MARK: 1.Assignment Operator
 let b = 10
 var a:Int? = 3
