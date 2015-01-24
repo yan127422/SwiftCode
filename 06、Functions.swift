@@ -4,7 +4,7 @@ func sayHello(personName:String)->String {
     return greeting
 }
 println(sayHello("Roger"))
-
+ 
 //MARK:2. Function Parameters and Return Values
 //a.MUltiple Input Parameters
 func halfOpenRangeLength(start:Int, end:Int) -> Int{
