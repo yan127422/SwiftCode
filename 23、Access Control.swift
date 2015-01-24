@@ -1,4 +1,4 @@
-//MARK:1. Access Control Syntax
+//MARK:1. Access Control Syntax 
 public class SomePublicClass{}
 internal class SomeInternalClass{}
 private class SomePrivateClass{}
