@@ -2,7 +2,7 @@
 //MARK: 1. Array Literals
 var shoppingList1:[String] = ["Eggs","Milk"]
 var shoppingList2 = ["Eggs","Milk"]
-
+ 
 //MARK: 2. Accessing and Modifying an Array
 println("The shoppingList1 countains \(shoppingList1.count) items.")
 if shoppingList1.isEmpty  {
