@@ -1,4 +1,4 @@
-//MARK:1. Defining a Class Hierarchy for Type Casting
+//MARK:1. Defining a Class Hierarchy for Type Casting 
 class MediaItem {
     var name: String
     init(name: String){
