@@ -1,4 +1,4 @@
-//MARK:1. Nested Types in Action
+//MARK:1. Nested Types in Action 
 struct BlackjackCard {
     //nested Suit enumeration
     enum Suit: Character {
