@@ -1,4 +1,4 @@
-//MARK:1.Protocol Syntax
+//MARK:1.Protocol Syntax 
 /*
     protocol SomeProtocol{
 
