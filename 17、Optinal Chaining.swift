@@ -1,4 +1,4 @@
-//MARK:1. Optional Chaining as an Alternative to Forced Unwrapping
+//MARK:1. Optional Chaining as an Alternative to Forced Unwrapping 
 class Person {
     var residence: Residence?
 }
