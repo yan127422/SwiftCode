@@ -5,7 +5,7 @@ enum CompassPoint {
     case East
     case West
 }
-
+ 
 enum Planet {
     case Mercury, Venus, Earth, Mars, Jupiter, Statun, Uranus, Neptune
 }
