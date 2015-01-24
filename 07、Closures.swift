@@ -1,4 +1,4 @@
-//TODO:一、Closure Expressions
+//TODO:一、Closure Expressions 
 //MARK:1. The Sorted Function
 let names = ["Charis", "Alex", "Ewa", "Barry", "Daniella"]
 func backwards(s1:String, s2:String) -> Bool {
