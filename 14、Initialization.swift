@@ -1,4 +1,4 @@
-//TODO:1. Setting Initial Values for Stored Properties
+//TODO:1. Setting Initial Values for Stored Properties 
 //MARK:1. Initializers
 struct Fahrenheit {
     var temperature: Double
